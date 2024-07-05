@@ -1,4 +1,4 @@
-# Codsoft
+
 
 def simple_calculator():
     print("Simple Calculator")
